@@ -1,4 +1,0 @@
-1
-stash test 1
-stash test 2
-ruleset test 1
