@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 HGHFGHJDFDGVNVMJ,K
 amend1
 amend2
+revert1
+=======
+Kahit ano
+>>>>>>> parent of d36092a (Update hailey.txt)
